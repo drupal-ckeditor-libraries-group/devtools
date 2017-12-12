@@ -3,10 +3,10 @@
  * For licensing, see LICENSE.md or https://ckeditor.com/legal/ckeditor-oss-license
  */
 
-CKEDITOR.plugins.setLang( 'devtools', 'nl', {
-	title: 'Elementinformatie',
-	dialogName: 'Naam dialoogvenster',
-	tabName: 'Tabnaam',
+CKEDITOR.plugins.setLang( 'devtools', 'en-au', {
+	title: 'Element Information',
+	dialogName: 'Dialog window name',
+	tabName: 'Tab name',
 	elementId: 'Element ID',
-	elementType: 'Elementtype'
+	elementType: 'Element type'
 } );
